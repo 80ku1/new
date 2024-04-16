@@ -34,3 +34,6 @@ while i <= numb:
 
 result = minChairs(simulations)
 print(result)
+
+#git commiting otw
+print("GoGiT")
